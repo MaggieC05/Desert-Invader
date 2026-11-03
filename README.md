@@ -1,5 +1,6 @@
 # Desert-Invader
-Space invader like game but false memory theme
+Space invader like game but False Memory theme (a show)
+
 Required Requirements:
 - Prevent Spaceship from moving offscreen
 - Making Aliens speed up every time of their comrades die
