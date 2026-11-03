@@ -3,8 +3,9 @@ Space invader like game but False Memory theme (a show)
 
 Required Requirements:
 - Prevent Spaceship from moving offscreen
-- Making Aliens speed up every time of their comrades die
+- Making Aliens speed up every time one of their comrades die
 - Making the game end once the aliens reach too far down
+
 Find at least three ways in which my code is inefficient, non-idiomatic, or otherwise poorly written:
 1. Created a function that would create the alien fleet and called the function at start instead of just putting the whole function at start. Done to reduce clutter.
 2. Removed the redundant for each alien in aliens in the AlienFleet class.
